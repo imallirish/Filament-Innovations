@@ -1,6 +1,6 @@
 * [Home](/)
 * [Guide](guide.md)
-* [Sidebar Test]
+* Sidebar Test
   * [PageContent](./Test-Folder/pagecontent)
-* [Icarus Test]
+* Icarus Test
   * [Icarus Guide](./Icarus-Test-Page/quickfactguide)
